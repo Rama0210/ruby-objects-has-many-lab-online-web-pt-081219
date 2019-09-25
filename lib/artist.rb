@@ -23,6 +23,7 @@ class Artist
 add_song(song)
 end
 
+def self
 
 end
 
